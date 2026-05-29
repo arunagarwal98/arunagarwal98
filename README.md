@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working toward becoming an AI Integration Engineer or LLM Developer. At the moment, I’m learning and building quality projects in core Python. Next, I plan to move into APIs, including FastAPI and REST API development, alomg with authentication & testing. For future opportunities, I would be happy to join as a Python Backend Developer or Software Engineer. <br> 
+I am currently working toward becoming an AI Integration Engineer or LLM Developer. At the moment, I’m learning and building quality projects in core Python. Next, I plan to move into APIs, including FastAPI and REST API development, alomg with authentication & testing. For future opportunities, I would be happy to join as a Python Backend Developer or Software Engineer or Software Developer. <br> 
 
 
 ## 🌐 Socials:
