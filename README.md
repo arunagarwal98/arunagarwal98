@@ -10,7 +10,7 @@ I am currently working toward becoming an AI Integration Engineer or LLM Develop
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=arunagarwal98&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=arunagarwal98&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arunaagrwal98&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arunaagarwal98&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=arunagarwal98&icon=0&color=0)](https://visitcount.itsvg.in)
